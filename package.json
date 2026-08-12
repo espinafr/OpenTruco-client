@@ -10,10 +10,10 @@
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.3.3",
-    "@types/node": "^26.1.2",
+    "@types/node": "^26.2.0",
     "tailwindcss": "^4.3.3",
     "typescript": "~7.0.2",
-    "vite": "^8.2.0"
+    "vite": "^8.2.1"
   },
   "dependencies": {
     "glob": "^13.0.6"

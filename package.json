@@ -13,7 +13,7 @@
     "@types/node": "^26.2.0",
     "tailwindcss": "^4.3.3",
     "typescript": "~7.0.2",
-    "vite": "^8.2.1"
+    "vite": "^8.2.2"
   },
   "dependencies": {
     "glob": "^13.0.6"
